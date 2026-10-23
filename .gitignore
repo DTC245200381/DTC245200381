@@ -11,3 +11,6 @@
 *.bak
 docker-compose.yml.bak
 congthuc-before-fix.sql
+
+# Local database exporter credentials
+monitoring/mysqld-exporter.cnf
