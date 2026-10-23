@@ -1,0 +1,13 @@
+.env
+.DS_Store
+*.log
+.vscode/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.key
+*.bak
+docker-compose.yml.bak
+congthuc-before-fix.sql
